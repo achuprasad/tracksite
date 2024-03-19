@@ -12,7 +12,7 @@ Follow these commands step by step
 
 ```python
 # clone git repository
-git clone https://-------
+git clone https://github.com/achuprasad/tracksite.git
 
 # move to project root diretory
 cd tracksite
